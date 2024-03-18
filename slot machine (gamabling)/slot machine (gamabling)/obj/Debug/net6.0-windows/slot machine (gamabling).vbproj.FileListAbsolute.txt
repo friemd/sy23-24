@@ -1,0 +1,19 @@
+C:\Users\bphal328\Desktop\sy23-24\slot machine (gamabling)\slot machine (gamabling)\bin\Debug\net6.0-windows\slot machine (gamabling).exe
+C:\Users\bphal328\Desktop\sy23-24\slot machine (gamabling)\slot machine (gamabling)\bin\Debug\net6.0-windows\slot machine (gamabling).deps.json
+C:\Users\bphal328\Desktop\sy23-24\slot machine (gamabling)\slot machine (gamabling)\bin\Debug\net6.0-windows\slot machine (gamabling).runtimeconfig.json
+C:\Users\bphal328\Desktop\sy23-24\slot machine (gamabling)\slot machine (gamabling)\bin\Debug\net6.0-windows\slot machine (gamabling).dll
+C:\Users\bphal328\Desktop\sy23-24\slot machine (gamabling)\slot machine (gamabling)\bin\Debug\net6.0-windows\slot machine (gamabling).pdb
+C:\Users\bphal328\Desktop\sy23-24\slot machine (gamabling)\slot machine (gamabling)\obj\Debug\net6.0-windows\slot machine (gamabling).vbproj.AssemblyReference.cache
+C:\Users\bphal328\Desktop\sy23-24\slot machine (gamabling)\slot machine (gamabling)\obj\Debug\net6.0-windows\slot_machine__gamabling_.Form1.resources
+C:\Users\bphal328\Desktop\sy23-24\slot machine (gamabling)\slot machine (gamabling)\obj\Debug\net6.0-windows\slot_machine__gamabling_.UserControl1.resources
+C:\Users\bphal328\Desktop\sy23-24\slot machine (gamabling)\slot machine (gamabling)\obj\Debug\net6.0-windows\slot machine (gamabling).vbproj.GenerateResource.cache
+C:\Users\bphal328\Desktop\sy23-24\slot machine (gamabling)\slot machine (gamabling)\obj\Debug\net6.0-windows\slot machine (gamabling).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bphal328\Desktop\sy23-24\slot machine (gamabling)\slot machine (gamabling)\obj\Debug\net6.0-windows\slot machine (gamabling).AssemblyInfoInputs.cache
+C:\Users\bphal328\Desktop\sy23-24\slot machine (gamabling)\slot machine (gamabling)\obj\Debug\net6.0-windows\slot machine (gamabling).AssemblyInfo.vb
+C:\Users\bphal328\Desktop\sy23-24\slot machine (gamabling)\slot machine (gamabling)\obj\Debug\net6.0-windows\slot machine (gamabling).vbproj.CoreCompileInputs.cache
+C:\Users\bphal328\Desktop\sy23-24\slot machine (gamabling)\slot machine (gamabling)\obj\Debug\net6.0-windows\slot machine (gamabling).dll
+C:\Users\bphal328\Desktop\sy23-24\slot machine (gamabling)\slot machine (gamabling)\obj\Debug\net6.0-windows\refint\slot machine (gamabling).dll
+C:\Users\bphal328\Desktop\sy23-24\slot machine (gamabling)\slot machine (gamabling)\obj\Debug\net6.0-windows\slot machine (gamabling).pdb
+C:\Users\bphal328\Desktop\sy23-24\slot machine (gamabling)\slot machine (gamabling)\obj\Debug\net6.0-windows\slot machine (gamabling).genruntimeconfig.cache
+C:\Users\bphal328\Desktop\sy23-24\slot machine (gamabling)\slot machine (gamabling)\obj\Debug\net6.0-windows\ref\slot machine (gamabling).dll
+C:\Users\bphal328\Desktop\sy23-24\slot machine (gamabling)\slot machine (gamabling)\obj\Debug\net6.0-windows\slot_machine__gamabling_.Resources.resources
